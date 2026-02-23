@@ -73,7 +73,7 @@ const KeyboardShortcuts = ({ onShortcut }) => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 20 }}
-            className="fixed bottom-24 right-6 bg-gray-800 text-white p-6 rounded-lg shadow-xl z-50 max-w-sm border border-gray-700"
+            className="fixed bottom-24 right-6 bg-gray-600 text-white p-6 rounded-lg shadow-xl z-50 max-w-sm border border-gray-700"
           >
             <h3 className="text-lg font-semibold mb-4">Keyboard Shortcuts</h3>
 
@@ -101,7 +101,7 @@ const KeyboardShortcuts = ({ onShortcut }) => {
               </div>
 
               <div>
-                <p className="text-sm font-medium text-gray-400 mb-2">
+                <p className="text-sm font-medium text-gray-200 mb-2">
                   Actions
                 </p>
                 <div className="grid grid-cols-2 gap-2 text-sm">

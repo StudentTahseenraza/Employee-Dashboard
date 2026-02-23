@@ -79,7 +79,7 @@ const VoiceCommand = ({ onCommand }) => {
             initial={{ opacity: 0, y: 20, x: -20 }}
             animate={{ opacity: 1, y: 0, x: 0 }}
             exit={{ opacity: 0, y: 20, x: -20 }}
-            className="fixed bottom-40 right-6 bg-gray-800 p-6 rounded-lg shadow-xl z-50 max-w-sm"
+            className="fixed bottom-40 right-6 bg-gray-200 p-6 rounded-lg shadow-xl z-50 max-w-sm"
           >
             <h3 className="text-lg font-semibold mb-3">Voice Commands</h3>
             <ul className="space-y-2 text-sm">
