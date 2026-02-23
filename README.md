@@ -93,7 +93,7 @@ Internet connection for API calls
 Installation Steps
 Clone the repository
 
-    git clone https://github.com/yourusername/employee-dashboard.git
+    git clone https://github.com/StudentTahseenraza/Employee-Dashboard.git
     cd employee-dashboard
     
     Install dependencies
